@@ -1,9 +1,0 @@
-Your Mac software has been notarized. You can now export this software and distribute it directly to users.
-
-Bundle Identifier: jp.nishigami.signing-and-notarization
-Request Identifier: XXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXX
-
-For details on exporting a notarized app, visit Xcode Help or the notarization guide.
-
-Best Regards,
-Apple Developer Relations
